@@ -1,0 +1,25 @@
+h1 {
+    font-family: Helvetica Neue;
+    font-size: 30px;
+    color:navy;
+    font-weight:bolder;
+    background-color: greenyellow;
+    padding: 1%;
+    text-shadow: 10px 10px 10px violet;
+}
+
+body {
+ background-position: center;
+ background-size: cover;
+}
+
+div {
+    background-color: azure;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h3 {
+    font-family: phosphate;
+}
